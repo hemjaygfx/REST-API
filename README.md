@@ -57,8 +57,8 @@ REST-API/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/jerriecruiz001-prog/rest-API.git
-cd rest-API
+git clone https://github.com/hemjaygfx/REST-API.git
+cd REST-API
 ```
 
 ### 2. Install dependencies
@@ -278,4 +278,4 @@ If the issue persists:
 
 ## Author
 
-**Jerrie Cruiz**
+**Hemjay GFX**
